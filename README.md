@@ -23,6 +23,7 @@ pip install selenium
 ```
 4. python main.py
 ```
+5. Enter your Ecampus username and password(it will be unvisible while entering).
 
 
 
